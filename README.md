@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Embedded Systems engineer 💻⚡️ working as develper at [NodeVPN](https://nodevpn.io/) 
+I'm a Embedded Systems engineer 💻⚡️ working as developer at [NodeVPN](https://nodevpn.io/) 
 
 - 🔭 I’m currently working on [easy_localization](https://pub.dev/packages/easy_localization)
 - 🌱 I’m currently learning 
