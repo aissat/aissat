@@ -7,6 +7,10 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about  Gnu/Linux 🐧 and [Flutter](https://flutter.dev) 
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aissat&show_icons=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aissat&layout=compact&count_private=true)
+
 <!--
 **aissat/aissat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
