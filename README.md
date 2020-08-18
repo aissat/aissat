@@ -12,6 +12,13 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aissat&layout=compact&count_private=true)
 
 <!--START_SECTION:waka-->
+```text
+Dart         56 hrs 29 mins  ████████████████████████▒   96.81 % 
+JSON         53 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+YAML         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Other        27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
 <!--END_SECTION:waka-->
 <!--
 **aissat/aissat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
