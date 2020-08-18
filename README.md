@@ -11,6 +11,8 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aissat&layout=compact&count_private=true)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!--
 **aissat/aissat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
