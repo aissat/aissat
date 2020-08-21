@@ -21,19 +21,19 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.3%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.3%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 332 Contributions in the year 2020
+> 🏆 332 Contributions in the Year 2020
  > 
 > 📦 26.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 124 Public repositories
+> 📜 124 Public Repositories
  > 
-> 🔑 9 Private repositories 
+> 🔑 9 Private Repositories 
 
 **I'm a Night 🦉** 
 
@@ -58,10 +58,10 @@ Sunday       12 commits     ░░░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time zone: Africa/Algiers
+⌚︎ Time Zone: Africa/Algiers
 
 💬 Programming Languages: 
 Dart                     57 hrs 45 mins      ████████████████████████░   97.47% 
@@ -70,7 +70,7 @@ Other                    27 mins             ░░░░░░░░░░░�
 JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08% 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
-🔥 Code Editors: 
+🔥 Editors: 
 VS Code                  59 hrs 15 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
