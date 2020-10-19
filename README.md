@@ -19,19 +19,19 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.7%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 339 Contributions in the Year 2020
+> 🏆 341 Contributions in the Year 2020
  > 
 > 📦 30.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 125 Public Repositories
+> 📜 126 Public Repositories
  > 
 > 🔑 11 Private Repositories 
 
