@@ -25,13 +25,13 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 
 **🐱 My Github Data** 
 
-> 🏆 342 Contributions in the Year 2020
+> 🏆 338 Contributions in the Year 2020
  > 
 > 📦 35.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 127 Public Repositories
+> 📜 123 Public Repositories
  > 
 > 🔑 11 Private Repositories 
 
