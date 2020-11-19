@@ -27,7 +27,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 
 > 🏆 340 Contributions in the Year 2020
  > 
-> 📦 35.6 kB Used in Github's Storage 
+> 📦 35.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
