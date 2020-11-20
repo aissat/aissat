@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a Master degree in Embedded systems working as developer at [NodeVPN](https://nodevpn.io/) 
-
+I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a Master degree in Embedded systems
 - 🔭 I’m currently working on [easy_localization](https://pub.dev/packages/easy_localization)
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on open source projects
