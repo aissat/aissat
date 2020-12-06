@@ -30,9 +30,9 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 129 Public Repositories
+> 📜 129 Public Repositories 
  > 
-> 🔑 12 Private Repositories 
+> 🔑 12 Private Repositories  
 
 **I'm a Night 🦉** 
 
