@@ -18,9 +18,9 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-212576%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-218506%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -32,7 +32,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
  > 
 > 📜 136 Public Repositories 
  > 
-> 🔑 12 Private Repositories  
+> 🔑 13 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -81,11 +81,11 @@ Mac                      17 mins             ░░░░░░░░░░░�
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     16 repos            ██████████░░░░░░░░░░░░░░░   42.11% 
+Dart                     15 repos            █████████░░░░░░░░░░░░░░░░   39.47% 
 PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
 Vala                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
 C                        3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.89% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
+Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.89%
 
 ```
 
