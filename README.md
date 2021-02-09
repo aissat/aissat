@@ -20,17 +20,17 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-276349%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-276456%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 110 Contributions in the Year 2021
+> 🏆 114 Contributions in the Year 2021
  > 
 > 📦 41.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 137 Public Repositories 
+> 📜 138 Public Repositories 
  > 
 > 🔑 13 Private Repositories  
  > 
@@ -81,7 +81,7 @@ Mac                      17 mins             ░░░░░░░░░░░�
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     16 repos            ██████████░░░░░░░░░░░░░░░   41.03% 
+Dart                     17 repos            ███████████░░░░░░░░░░░░░░   43.59% 
 PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.26% 
 Vala                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.26% 
 C                        3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
