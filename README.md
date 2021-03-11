@@ -20,17 +20,17 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-284331%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-284357%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 167 Contributions in the Year 2021
+> 🏆 169 Contributions in the Year 2021
  > 
 > 📦 42.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 140 Public Repositories 
+> 📜 141 Public Repositories 
  > 
 > 🔑 13 Private Repositories  
  > 
