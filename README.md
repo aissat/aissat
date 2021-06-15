@@ -24,7 +24,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 
 **🐱 My Github Data** 
 
-> 🏆 317 Contributions in the Year 2021
+> 🏆 318 Contributions in the Year 2021
  > 
 > 📦 43.4 kB Used in Github's Storage 
  > 
@@ -93,7 +93,7 @@ C                        3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aissat/aissat/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/06/2021
+ Last Updated on 15/06/2021
 <!--END_SECTION:waka-->
 
 </details>
