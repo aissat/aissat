@@ -18,7 +18,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-341813%20lines%20of%20code-blue)
 
@@ -79,11 +79,11 @@ Linux                    43 mins             ████░░░░░░░�
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     19 repos            █████████░░░░░░░░░░░░░░░░   37.25% 
-PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.84% 
-Vala                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.84% 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.84% 
-C                        3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+Dart                     20 repos            █████████░░░░░░░░░░░░░░░░   38.46% 
+PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+Vala                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+C                        3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.77%
 
 ```
 
@@ -93,7 +93,7 @@ C                        3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aissat/aissat/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/06/2021
+ Last Updated on 22/06/2021
 <!--END_SECTION:waka-->
 
 </details>
