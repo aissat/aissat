@@ -18,7 +18,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-341819%20lines%20of%20code-blue)
 
@@ -26,7 +26,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 
 > 🏆 326 Contributions in the Year 2021
  > 
-> 📦 43.5 kB Used in Github's Storage 
+> 📦 43.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -94,7 +94,7 @@ C                        3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aissat/aissat/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/07/2021
+ Last Updated on 03/07/2021
 <!--END_SECTION:waka-->
 
 </details>
