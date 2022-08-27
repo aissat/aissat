@@ -20,7 +20,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C555%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--3%20Million%20lines%20of%20code-blue)
 
@@ -65,17 +65,17 @@ Sunday       81 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Algiers
 
 💬 Programming Languages: 
-Dart                     7 hrs 16 mins       █████████████████░░░░░░░░   68.94% 
-Python                   2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.33% 
-HTML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.74% 
-Properties               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.0% 
-TOML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21%
+Python                   2 hrs 2 mins        █████████████░░░░░░░░░░░░   51.85% 
+Dart                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.02% 
+HTML                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72% 
+Properties               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.73% 
+TOML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.26%
 
 🔥 Editors: 
-VS Code                  10 hrs 33 mins      █████████████████████████   100.0%
+VS Code                  3 hrs 56 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    10 hrs 33 mins      █████████████████████████   100.0%
+Linux                    3 hrs 56 mins       █████████████████████████   100.0%
 
 ```
 
@@ -96,7 +96,7 @@ PHP                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aissat/aissat/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/08/2022 00:43:29 UTC
+ Last Updated on 27/08/2022 00:43:59 UTC
 <!--END_SECTION:waka-->
 
 </details>
