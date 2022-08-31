@@ -65,17 +65,13 @@ Sunday       81 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Algiers
 
 💬 Programming Languages: 
-Python                   2 hrs 2 mins        █████████████░░░░░░░░░░░░   51.85% 
-Dart                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.02% 
-HTML                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72% 
-Properties               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.73% 
-TOML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.26%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 56 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 hrs 56 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -96,7 +92,7 @@ PHP                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aissat/aissat/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/08/2022 00:50:57 UTC
+ Last Updated on 31/08/2022 00:51:01 UTC
 <!--END_SECTION:waka-->
 
 </details>
