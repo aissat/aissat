@@ -20,7 +20,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C555%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--3%20Million%20lines%20of%20code-blue)
 
@@ -92,7 +92,7 @@ PHP                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aissat/aissat/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/09/2022 00:38:21 UTC
+ Last Updated on 02/09/2022 00:47:18 UTC
 <!--END_SECTION:waka-->
 
 </details>
