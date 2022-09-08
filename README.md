@@ -65,7 +65,8 @@ Sunday       81 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Algiers
 
 💬 Programming Languages: 
-YAML                     10 mins             █████████████████████████   100.0%
+YAML                     10 mins             ████████████████████████░   96.73% 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.27%
 
 🔥 Editors: 
 VS Code                  10 mins             █████████████████████████   100.0%
@@ -92,7 +93,7 @@ PHP                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aissat/aissat/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/09/2022 00:43:00 UTC
+ Last Updated on 08/09/2022 00:49:23 UTC
 <!--END_SECTION:waka-->
 
 </details>
