@@ -18,7 +18,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C555%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C555%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -36,45 +36,6 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
  > 
 > 🔑 22 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.99% 
-🌆 Daytime    84 commits     █████░░░░░░░░░░░░░░░░░░░░   20.95% 
-🌃 Evening    144 commits    █████████░░░░░░░░░░░░░░░░   35.91% 
-🌙 Night      157 commits    █████████░░░░░░░░░░░░░░░░   39.15%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.74% 
-Tuesday      74 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.45% 
-Wednesday    47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.72% 
-Thursday     34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.48% 
-Friday       82 commits     █████░░░░░░░░░░░░░░░░░░░░   20.45% 
-Saturday     64 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.96% 
-Sunday       81 commits     █████░░░░░░░░░░░░░░░░░░░░   20.2%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Africa/Algiers
-
-💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.0%
-
-🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
-
-💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -92,7 +53,7 @@ PHP                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aissat/aissat/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/09/2022 00:43:17 UTC
+ Last Updated on 14/09/2022 00:44:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
