@@ -18,7 +18,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C555%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C557%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -26,7 +26,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 
 **🐱 My GitHub Data** 
 
-> 🏆 109 Contributions in the Year 2022
+> 🏆 112 Contributions in the Year 2022
  > 
 > 📦 45.9 kB Used in GitHub's Storage 
  > 
@@ -39,11 +39,11 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     24 repos            ████████░░░░░░░░░░░░░░░░░   32.43% 
-TypeScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.46% 
-Shell                    6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
-C++                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
-PHP                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.76%
+Dart                     24 repos            ████████░░░░░░░░░░░░░░░░░   32.0% 
+TypeScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.67% 
+Shell                    6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
+C++                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
+PHP                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
 
 ```
 
@@ -53,7 +53,7 @@ PHP                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aissat/aissat/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 00:44:00 UTC
+ Last Updated on 15/09/2022 00:45:44 UTC
 <!--END_SECTION:waka-->
 
 </details>
