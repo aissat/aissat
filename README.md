@@ -18,9 +18,9 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C557%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C566%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--3%20Million%20lines%20of%20code-blue)
 
@@ -28,7 +28,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 
 > 🏆 112 Contributions in the Year 2022
  > 
-> 📦 45.9 kB Used in GitHub's Storage 
+> 📦 46.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -36,6 +36,49 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
  > 
 > 🔑 22 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.96% 
+🌆 Daytime    84 commits     █████░░░░░░░░░░░░░░░░░░░░   20.79% 
+🌃 Evening    147 commits    █████████░░░░░░░░░░░░░░░░   36.39% 
+🌙 Night      157 commits    █████████░░░░░░░░░░░░░░░░   38.86%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.7% 
+Tuesday      74 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.32% 
+Wednesday    50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.38% 
+Thursday     34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.42% 
+Friday       82 commits     █████░░░░░░░░░░░░░░░░░░░░   20.3% 
+Saturday     64 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.84% 
+Sunday       81 commits     █████░░░░░░░░░░░░░░░░░░░░   20.05%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Africa/Algiers
+
+💬 Programming Languages: 
+YAML                     9 hrs 25 mins       █████████████████████░░░░   83.97% 
+Docker                   1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.14% 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86% 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+
+🔥 Editors: 
+VS Code                  11 hrs 14 mins      █████████████████████████   100.0%
+
+💻 Operating System: 
+Linux                    11 hrs 14 mins      █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -53,7 +96,7 @@ PHP                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aissat/aissat/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/09/2022 00:45:44 UTC
+ Last Updated on 16/09/2022 00:52:40 UTC
 <!--END_SECTION:waka-->
 
 </details>
