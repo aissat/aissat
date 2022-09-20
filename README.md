@@ -18,9 +18,9 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C578%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C579%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--3%20Million%20lines%20of%20code-blue)
 
@@ -65,17 +65,17 @@ Sunday       81 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Algiers
 
 💬 Programming Languages: 
-YAML                     14 hrs 54 mins      ████████████████░░░░░░░░░   64.48% 
-Rust                     4 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   20.34% 
-Docker                   1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.86% 
-Dart                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.53% 
-JSON                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.66%
+YAML                     14 hrs 54 mins      ███████████████░░░░░░░░░░   62.33% 
+Rust                     4 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.67% 
+Dart                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.53% 
+Docker                   1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.64% 
+JSON                     39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.76%
 
 🔥 Editors: 
-VS Code                  23 hrs 8 mins       █████████████████████████   100.0%
+VS Code                  23 hrs 55 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    23 hrs 8 mins       █████████████████████████   100.0%
+Linux                    23 hrs 55 mins      █████████████████████████   100.0%
 
 ```
 
@@ -96,7 +96,7 @@ PHP                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aissat/aissat/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/09/2022 00:43:43 UTC
+ Last Updated on 20/09/2022 00:48:10 UTC
 <!--END_SECTION:waka-->
 
 </details>
