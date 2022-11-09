@@ -18,7 +18,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C627%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C627%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -65,14 +65,13 @@ Sunday       52 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Algiers
 
 💬 Programming Languages: 
-Dart                     2 hrs 28 mins       █████████████████████████   99.55% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
+Dart                     25 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  2 hrs 29 mins       █████████████████████████   100.0%
+VS Code                  25 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    2 hrs 29 mins       █████████████████████████   100.0%
+Linux                    25 mins             █████████████████████████   100.0%
 
 ```
 
@@ -93,7 +92,7 @@ PHP                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aissat/aissat/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/11/2022 00:40:16 UTC
+ Last Updated on 09/11/2022 00:41:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
