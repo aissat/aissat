@@ -18,63 +18,24 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C627%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C627%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--3%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 169 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 119.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 162 Public Repositories 
+> 📜 163 Public Repositories 
  > 
 > 🔑 23 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.55% 
-🌆 Daytime    88 commits     ██████░░░░░░░░░░░░░░░░░░░   24.79% 
-🌃 Evening    93 commits     ██████░░░░░░░░░░░░░░░░░░░   26.2% 
-🌙 Night      133 commits    █████████░░░░░░░░░░░░░░░░   37.46%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.45% 
-Tuesday      77 commits     █████░░░░░░░░░░░░░░░░░░░░   21.69% 
-Wednesday    42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.83% 
-Thursday     33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.3% 
-Friday       72 commits     █████░░░░░░░░░░░░░░░░░░░░   20.28% 
-Saturday     49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.8% 
-Sunday       52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.65%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Africa/Algiers
-
-💬 Programming Languages: 
-Dart                     25 mins             █████████████████████████   100.0%
-
-🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.0%
-
-💻 Operating System: 
-Linux                    25 mins             █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -92,7 +53,7 @@ PHP                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aissat/aissat/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2022 00:41:41 UTC
+ Last Updated on 02/02/2023 09:59:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
