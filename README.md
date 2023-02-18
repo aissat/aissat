@@ -22,7 +22,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--8%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--7%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -65,16 +65,16 @@ Sunday          34 commits       ██░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Algiers
 
 💬 Programming Languages: 
-Docker                   4 hrs 34 mins       █████████████░░░░░░░░░░░░   53.36 % 
-JSON                     1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   23.13 % 
-Dart                     1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   22.53 % 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Docker                   4 hrs 34 mins       ████████████████░░░░░░░░░   65.67 % 
+JSON                     1 hr 59 mins        ███████░░░░░░░░░░░░░░░░░░   28.47 % 
+Dart                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 58 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    8 hrs 35 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 58 mins       █████████████████████████   100.00 % 
 
 ```
 
@@ -95,7 +95,7 @@ PHP                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aissat/aissat/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/02/2023 01:12:15 UTC
+ Last Updated on 18/02/2023 01:08:49 UTC
 <!--END_SECTION:waka-->
 
 </details>
