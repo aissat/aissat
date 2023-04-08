@@ -18,7 +18,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C009%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C009%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -63,16 +63,15 @@ Sunday                   532 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Algiers
 
 💬 Programming Languages: 
-Dart                     4 hrs 45 mins       █████████████████████░░░░   85.65 % 
-JSON                     47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Dart                     4 hrs 14 mins       █████████████████████████   99.09 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 33 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 16 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 33 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -92,7 +91,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 07/04/2023 00:57:36 UTC
+ Last Updated on 08/04/2023 00:59:58 UTC
 <!--END_SECTION:waka-->
 
 </details>
