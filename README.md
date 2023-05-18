@@ -18,9 +18,9 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C080%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C088%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
@@ -63,16 +63,17 @@ Sunday                   582 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Algiers
 
 💬 Programming Languages: 
-YAML                     9 hrs 23 mins       ██████████████░░░░░░░░░░░   55.79 % 
-Rust                     4 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
-Dart                     2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Other                    1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+YAML                     15 hrs 44 mins      ████████████████░░░░░░░░░   62.46 % 
+Rust                     4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Other                    3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Dart                     2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 50 mins      █████████████████████████   100.00 % 
+VS Code                  25 hrs 11 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    16 hrs 50 mins      █████████████████████████   100.00 % 
+Linux                    25 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -92,7 +93,7 @@ Dockerfile               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2023 01:05:27 UTC
+ Last Updated on 18/05/2023 01:03:13 UTC
 <!--END_SECTION:waka-->
 
 </details>
