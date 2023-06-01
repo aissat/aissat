@@ -18,7 +18,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C103%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C105%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -28,11 +28,11 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 
 > 📦 120.2 kB Used in GitHub's Storage 
  > 
-> 🏆 35 Contributions in the Year 2023
+> 🏆 36 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 163 Public Repositories 
+> 📜 164 Public Repositories 
  > 
 > 🔑 25 Private Repositories 
  > 
@@ -63,16 +63,17 @@ Sunday                   582 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Algiers
 
 💬 Programming Languages: 
-Python                   3 hrs 41 mins       ██████████████████░░░░░░░   71.81 % 
-Rust                     43 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Dart                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Python                   3 hrs 41 mins       █████████████░░░░░░░░░░░░   53.12 % 
+YAML                     1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Bash                     1 hr                ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Rust                     43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Dart                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  6 hrs 56 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 7 mins        █████████████████████████   100.00 % 
+Linux                    6 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -92,7 +93,7 @@ Dockerfile               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2023 01:12:46 UTC
+ Last Updated on 01/06/2023 01:26:07 UTC
 <!--END_SECTION:waka-->
 
 </details>
