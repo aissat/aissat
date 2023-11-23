@@ -19,9 +19,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C587%20hrs%2029%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
@@ -37,44 +35,6 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
  > 
 > 🔑 26 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                486 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-🌆 Daytime                976 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-🌃 Evening                2573 commits        ███████████░░░░░░░░░░░░░░   42.31 % 
-🌙 Night                  2047 commits        ████████░░░░░░░░░░░░░░░░░   33.66 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   561 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Tuesday                  938 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Wednesday                718 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Thursday                 1189 commits        █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-Friday                   1103 commits        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-Saturday                 966 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Sunday                   607 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Algiers
-
-💬 Programming Languages: 
-Dart                     5 hrs 16 mins       █████████████████████████   98.19 % 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-🔥 Editors: 
-VS Code                  5 hrs 21 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    5 hrs 21 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -92,7 +52,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 18/11/2023 00:58:39 UTC
+ Last Updated on 23/11/2023 00:58:19 UTC
 <!--END_SECTION:waka-->
 
 </details>
