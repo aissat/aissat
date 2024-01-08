@@ -19,7 +19,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C817%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C820%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -94,7 +94,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 07/01/2024 01:03:59 UTC
+ Last Updated on 08/01/2024 01:00:20 UTC
 <!--END_SECTION:waka-->
 
 </details>
