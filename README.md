@@ -19,9 +19,9 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C918%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C918%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
@@ -64,17 +64,17 @@ Sunday                   632 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Algiers
 
 💬 Programming Languages: 
-Dart                     51 hrs 12 mins      ███████████████████████░░   93.79 % 
-Other                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-YAML                     49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-JSON                     49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Dart                     51 hrs 34 mins      ███████████████████████░░   93.72 % 
+Other                    1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+YAML                     51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+JSON                     49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 Docker                   24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-VS Code                  54 hrs 35 mins      █████████████████████████   100.00 % 
+VS Code                  55 hrs 1 min        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    54 hrs 35 mins      █████████████████████████   100.00 % 
+Linux                    55 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -94,7 +94,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2024 01:05:13 UTC
+ Last Updated on 22/01/2024 01:02:34 UTC
 <!--END_SECTION:waka-->
 
 </details>
