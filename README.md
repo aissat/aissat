@@ -19,9 +19,9 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C009%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C012%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
@@ -64,16 +64,16 @@ Sunday                   633 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Algiers
 
 💬 Programming Languages: 
-Dart                     21 hrs 30 mins      ████████████████████████░   95.37 % 
-YAML                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Dart                     24 hrs 2 mins       ████████████████████████░   95.40 % 
+YAML                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 33 mins      █████████████████████████   100.00 % 
+VS Code                  25 hrs 12 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    22 hrs 33 mins      █████████████████████████   100.00 % 
+Linux                    25 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -93,7 +93,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 12/02/2024 00:57:02 UTC
+ Last Updated on 13/02/2024 00:56:15 UTC
 <!--END_SECTION:waka-->
 
 </details>
