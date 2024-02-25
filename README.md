@@ -21,7 +21,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%2C019%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
@@ -64,8 +64,8 @@ Sunday                   659 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Algiers
 
 💬 Programming Languages: 
-Dart                     3 hrs 21 mins       ███████████████████░░░░░░   77.78 % 
-YAML                     53 mins             █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+Dart                     3 hrs 21 mins       ███████████████████░░░░░░   77.79 % 
+YAML                     53 mins             █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
 Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🔥 Editors: 
@@ -92,7 +92,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2024 00:55:50 UTC
+ Last Updated on 25/02/2024 00:59:08 UTC
 <!--END_SECTION:waka-->
 
 </details>
