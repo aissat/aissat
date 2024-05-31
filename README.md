@@ -21,7 +21,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%2C056%20hrs%2018%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
@@ -62,17 +62,17 @@ Sunday                   659 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Algiers
 
 💬 Programming Languages: 
-Dart                     1 hr 44 mins        █████████████████████░░░░   84.37 % 
-Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Dart                     48 mins             █████████████████████░░░░   83.51 % 
+Other                    6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  58 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 4 mins        █████████████████████████   100.00 % 
+Linux                    58 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -92,7 +92,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2024 01:00:50 UTC
+ Last Updated on 31/05/2024 01:02:24 UTC
 <!--END_SECTION:waka-->
 
 </details>
