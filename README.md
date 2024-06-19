@@ -19,7 +19,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C060%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C061%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -28,8 +28,6 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 **🐱 My GitHub Data** 
 
 > 📦 121.4 kB Used in GitHub's Storage 
- > 
-> 🏆 17 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -64,16 +62,17 @@ Sunday                   685 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Algiers
 
 💬 Programming Languages: 
-Dart                     35 mins             ████████████████████████░   96.85 % 
-Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Dart                     43 mins             ███████████████████████░░   93.84 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔥 Editors: 
-VS Code                  36 mins             █████████████████████████   100.00 % 
+VS Code                  46 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    36 mins             █████████████████████████   100.00 % 
+Linux                    46 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -93,7 +92,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 18/06/2024 01:03:12 UTC
+ Last Updated on 19/06/2024 01:03:02 UTC
 <!--END_SECTION:waka-->
 
 </details>
