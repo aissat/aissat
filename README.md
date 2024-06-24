@@ -29,6 +29,8 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 
 > 📦 121.4 kB Used in GitHub's Storage 
  > 
+> 🏆 18 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 169 Public Repositories 
@@ -92,7 +94,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2024 01:06:18 UTC
+ Last Updated on 24/06/2024 01:04:06 UTC
 <!--END_SECTION:waka-->
 
 </details>
