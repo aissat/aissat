@@ -19,7 +19,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C227%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C239%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -80,11 +80,11 @@ Linux                    30 hrs 5 mins       ███████████�
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     31 repos            ████████░░░░░░░░░░░░░░░░░   30.69 % 
-TypeScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-Dockerfile               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-C#                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Dart                     31 repos            ████████░░░░░░░░░░░░░░░░░   30.39 % 
+TypeScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+JavaScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Dockerfile               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
@@ -94,7 +94,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2024 01:07:07 UTC
+ Last Updated on 29/08/2024 01:07:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
