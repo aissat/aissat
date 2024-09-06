@@ -19,7 +19,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C261%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C271%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -28,8 +28,6 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 **🐱 My GitHub Data** 
 
 > 📦 121.6 kB Used in GitHub's Storage 
- > 
-> 🏆 213 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -64,17 +62,18 @@ Sunday                   708 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Algiers
 
 💬 Programming Languages: 
-Dart                     20 hrs 36 mins      ███████████████████████░░   92.06 % 
-YAML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-Python                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Dart                     27 hrs 36 mins      ████████████████████████░   94.88 % 
+YAML                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+JSON                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Text                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Python                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 22 mins      █████████████████████████   100.00 % 
+VS Code                  28 hrs 54 mins      █████████████████████████   99.39 % 
+Cursor                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 💻 Operating System: 
-Linux                    22 hrs 22 mins      █████████████████████████   100.00 % 
+Linux                    29 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -94,7 +93,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2024 01:08:25 UTC
+ Last Updated on 06/09/2024 01:09:12 UTC
 <!--END_SECTION:waka-->
 
 </details>
