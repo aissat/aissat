@@ -29,6 +29,8 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 
 > 📦 121.8 kB Used in GitHub's Storage 
  > 
+> 🏆 320 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 170 Public Repositories 
@@ -62,13 +64,13 @@ Sunday                   725 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Algiers
 
 💬 Programming Languages: 
-Dart                     20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -88,7 +90,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2024 01:10:56 UTC
+ Last Updated on 27/10/2024 01:18:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
