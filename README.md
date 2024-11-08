@@ -29,7 +29,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 
 > 📦 121.8 kB Used in GitHub's Storage 
  > 
-> 🏆 320 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -37,6 +37,42 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
  > 
 > 🔑 31 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                595 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+🌆 Daytime                1275 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+🌃 Evening                3156 commits        ██████████░░░░░░░░░░░░░░░   41.81 % 
+🌙 Night                  2523 commits        ████████░░░░░░░░░░░░░░░░░   33.42 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   687 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Tuesday                  1184 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Wednesday                882 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Thursday                 1499 commits        █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+Friday                   1317 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Saturday                 1255 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Sunday                   725 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Algiers
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -54,7 +90,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 07/11/2024 01:12:02 UTC
+ Last Updated on 08/11/2024 01:11:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
