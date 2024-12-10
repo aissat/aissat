@@ -19,7 +19,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C369%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C371%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -27,7 +27,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 
 **🐱 My GitHub Data** 
 
-> 📦 122.1 kB Used in GitHub's Storage 
+> 📦 122.2 kB Used in GitHub's Storage 
  > 
 > 🏆 328 Contributions in the Year 2024
  > 
@@ -64,13 +64,15 @@ Sunday                   737 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Algiers
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     1 hr 46 mins        █████████████████████░░░░   84.73 % 
+JSON                     19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 6 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -90,7 +92,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 09/12/2024 01:22:43 UTC
+ Last Updated on 10/12/2024 01:20:48 UTC
 <!--END_SECTION:waka-->
 
 </details>
