@@ -19,7 +19,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C421%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C425%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -37,42 +37,6 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
  > 
 > 🔑 32 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                595 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-🌆 Daytime                1326 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-🌃 Evening                3253 commits        ██████████░░░░░░░░░░░░░░░   41.83 % 
-🌙 Night                  2603 commits        ████████░░░░░░░░░░░░░░░░░   33.47 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   725 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Tuesday                  1204 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Wednesday                951 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Thursday                 1558 commits        █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-Friday                   1323 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Saturday                 1284 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Sunday                   732 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Algiers
-
-💬 Programming Languages: 
-Dart                     10 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    10 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -90,7 +54,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 08/01/2025 01:13:58 UTC
+ Last Updated on 09/01/2025 01:14:24 UTC
 <!--END_SECTION:waka-->
 
 </details>
