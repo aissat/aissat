@@ -21,15 +21,13 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%2C511%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 123.2 kB Used in GitHub's Storage 
- > 
-> 🏆 5 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -64,17 +62,17 @@ Sunday                   734 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Algiers
 
 💬 Programming Languages: 
-Svelte                   14 hrs 3 mins       ███████████████████░░░░░░   74.59 % 
-TypeScript               1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Dart                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-SQL                      1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Astro                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Svelte                   11 hrs 42 mins      ███████████████████░░░░░░   74.74 % 
+TypeScript               1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Dart                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+SQL                      1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Astro                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 51 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 39 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    18 hrs 51 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -94,7 +92,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 30/01/2025 01:10:41 UTC
+ Last Updated on 31/01/2025 01:12:42 UTC
 <!--END_SECTION:waka-->
 
 </details>
