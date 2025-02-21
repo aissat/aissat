@@ -19,7 +19,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C612%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C612%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -64,17 +64,17 @@ Sunday                   734 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Algiers
 
 💬 Programming Languages: 
-YAML                     17 hrs 7 mins       █████████████░░░░░░░░░░░░   50.15 % 
-Python                   8 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
-Other                    3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Text                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Nginx configuration file 2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+YAML                     13 hrs 19 mins      ███████████░░░░░░░░░░░░░░   44.63 % 
+Python                   8 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.67 % 
+Other                    2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Text                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Nginx configuration file 2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
 
 🔥 Editors: 
-VS Code                  34 hrs 9 mins       █████████████████████████   100.00 % 
+VS Code                  29 hrs 51 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    34 hrs 9 mins       █████████████████████████   100.00 % 
+Linux                    29 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -94,7 +94,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 20/02/2025 01:13:29 UTC
+ Last Updated on 21/02/2025 01:14:14 UTC
 <!--END_SECTION:waka-->
 
 </details>
