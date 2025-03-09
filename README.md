@@ -21,7 +21,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%2C661%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
@@ -64,17 +64,17 @@ Sunday                   734 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Algiers
 
 💬 Programming Languages: 
-YAML                     5 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   31.70 % 
-Python                   4 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-Other                    4 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
-Java                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-Smali                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+YAML                     5 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   30.05 % 
+Python                   4 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
+Other                    4 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+Java                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Smali                    1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 37 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 12 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    17 hrs 37 mins      █████████████████████████   100.00 % 
+Linux                    17 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -94,7 +94,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 08/03/2025 01:01:54 UTC
+ Last Updated on 09/03/2025 01:06:49 UTC
 <!--END_SECTION:waka-->
 
 </details>
