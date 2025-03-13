@@ -19,9 +19,9 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C665%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C668%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
@@ -64,17 +64,17 @@ Sunday                   734 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Algiers
 
 💬 Programming Languages: 
-Python                   4 hrs 15 mins       ███████████░░░░░░░░░░░░░░   44.79 % 
-YAML                     3 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   41.24 % 
-Java                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+YAML                     6 hrs 59 mins       █████████████████████░░░░   85.77 % 
+Python                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+TypeScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs 31 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -94,7 +94,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2025 01:16:10 UTC
+ Last Updated on 13/03/2025 01:17:48 UTC
 <!--END_SECTION:waka-->
 
 </details>
