@@ -19,7 +19,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C669%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C669%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -29,7 +29,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 
 > 📦 123.3 kB Used in GitHub's Storage 
  > 
-> 🏆 19 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -64,10 +64,7 @@ Sunday                   734 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Algiers
 
 💬 Programming Languages: 
-Python                   14 mins             ████████████████░░░░░░░░░   63.46 % 
-YAML                     6 mins              ███████░░░░░░░░░░░░░░░░░░   27.90 % 
-JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Pawn                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+TypeScript               22 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
 VS Code                  22 mins             █████████████████████████   100.00 % 
@@ -93,7 +90,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2025 01:18:19 UTC
+ Last Updated on 13/04/2025 02:47:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
