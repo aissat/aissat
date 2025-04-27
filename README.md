@@ -64,15 +64,13 @@ Sunday                   734 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Algiers
 
 💬 Programming Languages: 
-Svelte                   2 mins              █████████████████░░░░░░░░   69.08 % 
-Git Config               0 secs              █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
-TypeScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Svelte                   0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -92,7 +90,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 26/04/2025 01:18:22 UTC
+ Last Updated on 27/04/2025 01:25:18 UTC
 <!--END_SECTION:waka-->
 
 </details>
