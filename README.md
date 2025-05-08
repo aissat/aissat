@@ -19,7 +19,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C675%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C677%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -28,6 +28,8 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 **🐱 My GitHub Data** 
 
 > 📦 123.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 22 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -62,15 +64,17 @@ Sunday                   734 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Algiers
 
 💬 Programming Languages: 
-Dart                     4 hrs 13 mins       █████████████████████████   98.80 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Dart                     4 hrs 33 mins       ███████████████████░░░░░░   77.30 % 
+YAML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Docker                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 16 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 53 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 16 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -90,7 +94,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2025 01:22:39 UTC
+ Last Updated on 08/05/2025 01:24:03 UTC
 <!--END_SECTION:waka-->
 
 </details>
