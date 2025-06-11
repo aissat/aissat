@@ -64,14 +64,13 @@ Sunday                   771 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Algiers
 
 💬 Programming Languages: 
-YAML                     14 mins             ██████████████████████░░░   89.59 % 
-Other                    1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -91,7 +90,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 10/06/2025 01:26:14 UTC
+ Last Updated on 11/06/2025 01:26:01 UTC
 <!--END_SECTION:waka-->
 
 </details>
