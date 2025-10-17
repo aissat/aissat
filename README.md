@@ -19,6 +19,8 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C699%20hrs%2027%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
@@ -35,6 +37,42 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
  > 
 > 🔑 34 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                632 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+🌆 Daytime                1343 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+🌃 Evening                3270 commits        ██████████░░░░░░░░░░░░░░░   40.83 % 
+🌙 Night                  2763 commits        █████████░░░░░░░░░░░░░░░░   34.50 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   786 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Tuesday                  1239 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Wednesday                917 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Thursday                 1562 commits        █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Friday                   1386 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Saturday                 1314 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Sunday                   804 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Algiers
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -52,7 +90,7 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2025 01:19:29 UTC
+ Last Updated on 17/10/2025 01:20:28 UTC
 <!--END_SECTION:waka-->
 
 </details>
