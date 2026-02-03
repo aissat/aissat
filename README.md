@@ -19,6 +19,8 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C706%20hrs%2015%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.21%20million%20lines%20of%20code-blue?style=flat)
@@ -35,6 +37,42 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
  > 
 > 🔑 34 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                598 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+🌆 Daytime                1320 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+🌃 Evening                3148 commits        ██████████░░░░░░░░░░░░░░░   40.85 % 
+🌙 Night                  2641 commits        █████████░░░░░░░░░░░░░░░░   34.27 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   751 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Tuesday                  1197 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Wednesday                881 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Thursday                 1498 commits        █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Friday                   1329 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Saturday                 1242 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Sunday                   809 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Algiers
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -52,7 +90,7 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 02/02/2026 02:02:27 UTC
+ Last Updated on 03/02/2026 02:01:24 UTC
 <!--END_SECTION:waka-->
 
 </details>
