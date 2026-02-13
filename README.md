@@ -21,13 +21,13 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%2C706%20hrs%2015%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.25%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.27%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 124.6 kB Used in GitHub's Storage 
+> 📦 126.2 kB Used in GitHub's Storage 
  > 
 > 🏆 27 Contributions in the Year 2026
  > 
@@ -40,21 +40,21 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                598 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-🌆 Daytime                1324 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-🌃 Evening                3153 commits        ██████████░░░░░░░░░░░░░░░   40.84 % 
-🌙 Night                  2645 commits        █████████░░░░░░░░░░░░░░░░   34.26 % 
+🌞 Morning                598 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+🌆 Daytime                1327 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+🌃 Evening                3156 commits        ██████████░░░░░░░░░░░░░░░   40.84 % 
+🌙 Night                  2647 commits        █████████░░░░░░░░░░░░░░░░   34.25 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   753 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Tuesday                  1199 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Wednesday                885 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Thursday                 1500 commits        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Friday                   1329 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-Saturday                 1245 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Sunday                   809 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Monday                   754 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Tuesday                  1200 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Wednesday                887 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Thursday                 1502 commits        █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Friday                   1329 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Saturday                 1247 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Sunday                   809 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
 ```
 
 
@@ -90,7 +90,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 12/02/2026 02:04:00 UTC
+ Last Updated on 13/02/2026 02:06:44 UTC
 <!--END_SECTION:waka-->
 
 </details>
