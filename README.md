@@ -21,7 +21,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%2C706%20hrs%2015%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.43%20million%20lines%20of%20code-blue?style=flat)
 
@@ -29,7 +29,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 
 > 📦 127.5 kB Used in GitHub's Storage 
  > 
-> 🏆 234 Contributions in the Year 2026
+> 🏆 235 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -76,11 +76,11 @@ No Activity Tracked This Week
 **I Mostly Code in Dart** 
 
 ```text
-PHP                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Go                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Go Template              1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Go                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Go Template              1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 
 
@@ -90,7 +90,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 11/04/2026 02:07:28 UTC
+ Last Updated on 12/04/2026 02:28:22 UTC
 <!--END_SECTION:waka-->
 
 </details>
