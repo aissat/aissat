@@ -19,6 +19,8 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C853%20hrs%2026%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.29%20million%20lines%20of%20code-blue?style=flat)
@@ -35,6 +37,46 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
  > 
 > 🔑 41 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                623 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+🌆 Daytime                1353 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+🌃 Evening                3254 commits        ██████████░░░░░░░░░░░░░░░   41.42 % 
+🌙 Night                  2627 commits        ████████░░░░░░░░░░░░░░░░░   33.44 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   787 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Tuesday                  1182 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Wednesday                910 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Thursday                 1533 commits        █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Friday                   1372 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Saturday                 1263 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Sunday                   810 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Algiers
+
+💬 Programming Languages: 
+Svelte                   9 hrs 39 mins       ███████████░░░░░░░░░░░░░░   45.39 % 
+Markdown                 4 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+JSON                     3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Dart                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+TypeScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+
+🔥 Editors: 
+VS Code                  21 hrs 17 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    21 hrs 17 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -52,7 +94,7 @@ Go Template              1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 02:29:06 UTC
+ Last Updated on 26/07/2026 02:36:53 UTC
 <!--END_SECTION:waka-->
 
 </details>
