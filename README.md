@@ -19,7 +19,9 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C853%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C105%20hrs%208%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-147%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -64,17 +66,40 @@ Sunday                   810 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Algiers
 
 💬 Programming Languages: 
-Svelte                   9 hrs 39 mins       ███████████░░░░░░░░░░░░░░   45.39 % 
-Markdown                 4 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
-JSON                     3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Dart                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-TypeScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Svelte                   8 hrs 29 mins       ████████████░░░░░░░░░░░░░   49.80 % 
+JSON                     3 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+Markdown                 1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Dart                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Go                       31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 17 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 3 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    21 hrs 17 mins      █████████████████████████   100.00 % 
+Linux                    17 hrs 3 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 17 hrs 3 mins (100.0%)
+
+✍️ 23,002 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 76,456,145 Input Tokens, 409,573 Output Tokens
+
+💵 $38.77 Estimated AI Cost This Week
+
+🧠 18 AI Sessions, 129 AI Prompts
+
+Mimo                     209 lines           █████████████████████████   100.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,132 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -94,7 +119,7 @@ Go Template              1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 02:44:55 UTC
+ Last Updated on 28/07/2026 02:18:50 UTC
 <!--END_SECTION:waka-->
 
 </details>
