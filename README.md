@@ -42,21 +42,21 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                623 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-🌆 Daytime                1353 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-🌃 Evening                3254 commits        ██████████░░░░░░░░░░░░░░░   41.42 % 
-🌙 Night                  2627 commits        ████████░░░░░░░░░░░░░░░░░   33.44 % 
+🌞 Morning                623 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+🌆 Daytime                1357 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+🌃 Evening                3259 commits        ██████████░░░░░░░░░░░░░░░   41.43 % 
+🌙 Night                  2627 commits        ████████░░░░░░░░░░░░░░░░░   33.40 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   787 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-Tuesday                  1182 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Wednesday                910 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Thursday                 1533 commits        █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-Friday                   1372 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Saturday                 1263 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Sunday                   810 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Monday                   787 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+Tuesday                  1187 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Wednesday                914 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Thursday                 1533 commits        █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+Friday                   1372 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Saturday                 1263 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Sunday                   810 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
 ```
 
 
@@ -66,39 +66,19 @@ Sunday                   810 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Algiers
 
 💬 Programming Languages: 
-Dart                     1 hr 2 mins         █████████████░░░░░░░░░░░░   53.01 % 
-C                        23 mins             █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Markdown                 19 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Linker Script            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 57 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 57 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 57 mins (100.0%)
-
-✍️ 4,541 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 17,506,152 Input Tokens, 78,406 Output Tokens
-
-💵 $4.63 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 30 AI Prompts
-
-Mimo                     22 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 972 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -118,7 +98,7 @@ Go Template              1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 02:11:35 UTC
+ Last Updated on 31/07/2026 02:38:13 UTC
 <!--END_SECTION:waka-->
 
 </details>
