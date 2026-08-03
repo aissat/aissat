@@ -25,13 +25,13 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.29%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.30%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 129.0 kB Used in GitHub's Storage 
  > 
-> 🏆 276 Contributions in the Year 2026
+> 🏆 280 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -42,21 +42,21 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                623 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-🌆 Daytime                1357 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-🌃 Evening                3259 commits        ██████████░░░░░░░░░░░░░░░   41.43 % 
-🌙 Night                  2627 commits        ████████░░░░░░░░░░░░░░░░░   33.40 % 
+🌞 Morning                623 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+🌆 Daytime                1517 commits        █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+🌃 Evening                3487 commits        ██████████░░░░░░░░░░░░░░░   41.80 % 
+🌙 Night                  2716 commits        ████████░░░░░░░░░░░░░░░░░   32.55 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   787 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-Tuesday                  1187 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Wednesday                914 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Thursday                 1533 commits        █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-Friday                   1372 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-Saturday                 1263 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Sunday                   810 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Monday                   787 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Tuesday                  1302 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+Wednesday                1046 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Thursday                 1665 commits        █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+Friday                   1372 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Saturday                 1352 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Sunday                   819 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
 ```
 
 
@@ -84,11 +84,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Dart** 
 
 ```text
-TypeScript               13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Python                   6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Svelte                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Go                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Go Template              1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+TypeScript               13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Python                   6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Svelte                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Go                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Go Template              1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 ```
 
 
@@ -98,7 +98,7 @@ Go Template              1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 02:37:03 UTC
+ Last Updated on 03/08/2026 02:37:42 UTC
 <!--END_SECTION:waka-->
 
 </details>
