@@ -19,6 +19,10 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 ### 🧐 Waka Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C105%20hrs%208%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-147%20hrs%2011%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.30%20million%20lines%20of%20code-blue?style=flat)
@@ -35,6 +39,48 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
  > 
 > 🔑 41 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                623 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+🌆 Daytime                1517 commits        █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+🌃 Evening                3487 commits        ██████████░░░░░░░░░░░░░░░   41.80 % 
+🌙 Night                  2716 commits        ████████░░░░░░░░░░░░░░░░░   32.55 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   787 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Tuesday                  1302 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+Wednesday                1046 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Thursday                 1665 commits        █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+Friday                   1372 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Saturday                 1352 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Sunday                   819 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Algiers
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -52,7 +98,7 @@ Go Template              1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 02:35:24 UTC
+ Last Updated on 08/08/2026 01:24:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
