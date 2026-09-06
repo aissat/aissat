@@ -23,7 +23,7 @@ I am an Embedded systems Engineer ⚡️ and Software developer 💻 . I have a 
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-147%20hrs%2011%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.30%20million%20lines%20of%20code-blue?style=flat)
 
@@ -98,7 +98,7 @@ Go Template              1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aissat/aissat/master/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 02:59:25 UTC
+ Last Updated on 06/09/2026 02:57:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
